@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitbita99
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Engineering / AI 
 - 🌱 I’m currently learning Python and data visualisation 
 - 💞️ I’m looking to collaborate on a startup which understands my capability and knowledge 
 - 📫 How to reach me: contact--> abithm999@gmail.com
